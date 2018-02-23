@@ -1,2 +1,4 @@
 - validar os campos
 - criar templates
+- validar conteudo html
+- validar conteudo css
